@@ -11,3 +11,5 @@ nltk ,
 matplotlib ,
 seaborn ,
 sklearn
+install it with : //
+pip -install libraries.txt

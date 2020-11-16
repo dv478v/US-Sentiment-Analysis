@@ -13,7 +13,7 @@ seaborn ,
 sklearn
 install it with : 
 
-pip install -r libraries.txt
+* pip install -r libraries.txt
 
 # Model Creation
  * Start Jupyter notebook data_cleaning.ipynb
@@ -45,14 +45,14 @@ Random Forest algorithm is used to train the model as it is able to act upon non
 # Evaluating the model
 Evaluate the performance of the model against test labels using classification metrics
 
-*Confusion matrix
-*Classification report
-*Accuracy score
+* Confusion matrix
+* Classification report
+* Accuracy score
 
 # Classiers 
 
 there are many classifiers to test to get better accuracy : 
 
-*Logistic regression
-*SVM
-*KNN
+* Logistic regression
+* SVM
+* KNN

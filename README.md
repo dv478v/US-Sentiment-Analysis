@@ -3,3 +3,11 @@ This data was posted by kolaveridi and includes tweets about 6 major US airlines
 
 # Python Libraries used
 
+jupyter , 
+numpy ,
+pandas ,
+re ,
+nltk ,
+matplotlib ,
+seaborn ,
+sklearn
